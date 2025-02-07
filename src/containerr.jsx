@@ -5,7 +5,7 @@ import Diskon from './diskon';
 import ProductCard from './productCard';
 import ProductCard2 from './productCard2';
 import ProductDetail from './ProductDetail';
-import Footer from './Footer';
+import Footer from './footer';
 
 import bread from './assets/bread.png';
 import cake from './assets/cake.png';
